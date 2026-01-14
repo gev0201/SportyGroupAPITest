@@ -24,7 +24,7 @@ SportyGroupAPITest/
    ```
 
 2. **Configure API Key:**
-   - Create a `.env` file in the project root
+   - Create the `.env` file in the project root or rename the `.env.example` file to `.env`
    - Add your AviationStack API key:
      ```
      AVIATIONSTACK_API_KEY=your_api_key_here
